@@ -1,6 +1,6 @@
-# Project: Abnormal-Vertebral-knn-scratch
+Abnormal-Vertebral-knn-scratch
   
-  Goal: build KNN from scratch
+Goal: build KNN from scratch
 
 ## Data set info.
 Data set: [Vertebral Column Data Set](https://archive.ics.uci.edu/ml/datasets/vertebral+column#)<br />

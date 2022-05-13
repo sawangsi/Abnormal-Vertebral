@@ -34,8 +34,8 @@ There are 5 packages that I use in this project
 * I verify my own knn by implement the knn in sklearn to check whether the accuracy of the model are the same or not
 
 ## Further work
-* find the suitable
-* implement other distance
-* implement weighted decision
+* Find the suitable k
+* Implement other distance
+* Implement weighted decision
 
 
